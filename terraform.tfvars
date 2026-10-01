@@ -1,0 +1,7 @@
+region              = "eu-west-1"
+resource_prefix     = "cmtr-7dr93dhf"
+vpc_name            = "cmtr-7dr93dhf-vpc"
+security_group_name = "cmtr-7dr93dhf-sg"
+project_tag         = "epam-tf-lab"
+id_tag              = "cmtr-7dr93dhf"
+instance_type       = "t3.micro"
